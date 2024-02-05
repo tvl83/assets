@@ -242,5 +242,15 @@
     "marketplace": [
       "https://necropolis.backbonelabs.io/market/collection/terra1q2hjgq5sm7w04saj70gv0ur5tlz7r20854dfmsk8uv5u8cqnkuzskk7shc"
     ]
+  },
+  "terra1d36lwl0nk9g7qc7d2j96f0fd4wgeq9058j8phype6dtk7dlgqsjsnrh0te": {
+    "contract": "terra1d36lwl0nk9g7qc7d2j96f0fd4wgeq9058j8phype6dtk7dlgqsjsnrh0te",
+    "name": "Soul Reapers",
+    "symbol": "SR",
+    "icon": "https://nfts.backbonelabs.io/necropolis/collections/soulreapers/pfp.webp",
+    "homepage": "",
+    "marketplace": [
+      "https://necropolis.backbonelabs.io/market/collection/terra1q2hjgq5sm7w04saj70gv0ur5tlz7r20854dfmsk8uv5u8cqnkuzskk7shc"
+    ]
   }
 }
