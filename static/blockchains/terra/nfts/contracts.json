@@ -252,5 +252,15 @@
     "marketplace": [
       "https://necropolis.backbonelabs.io/market/collection/terra1q2hjgq5sm7w04saj70gv0ur5tlz7r20854dfmsk8uv5u8cqnkuzskk7shc"
     ]
+  },
+  "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9": {
+    "contract": "terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9",
+    "name": "AllianceDAO NFTs",
+    "symbol": "ALLYNFT",
+    "icon": "src="https://nfts.backbonelabs.io/necropolis/collections/alliancedaonft/alliancedaonft-pfp.webp"",
+    "homepage": "",
+    "marketplace": [
+      "https://necropolis.backbonelabs.io/market/collection/terra1phr9fngjv7a8an4dhmhd0u0f98wazxfnzccqtyheq4zqrrp4fpuqw3apw9"
+    ]
   }
 }
